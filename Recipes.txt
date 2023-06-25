@@ -4,7 +4,9 @@ Welcome to patil kitchen
 
 idli
 dosa
-
 puri
+
+pasta
+pizza
 
 thank you :)
